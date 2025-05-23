@@ -1,0 +1,137 @@
+=== DIAL3.JSX DEBUG LOG ===
+Script started: Fri May 23 2025 13:28:58 GMT+0900
+Script folder: D:\EPS\Iter\UI
+
+[13:28:58] Settings:
+[13:28:58]   - TARGET_WIDTH: 400 points
+[13:28:58]   - GAP: 50 points
+[13:28:58] 
+[13:28:58] File selection started...
+[13:29:07] PNG file selected: D:\EPS\Iter\UI\PatCol.png
+[13:29:16] EPS file selected: D:\EPS\Iter\UI\PatBlk.eps
+[13:29:16] 
+[13:29:16] Document setup:
+[13:29:16]   - Number of open documents: 0
+[13:29:24]   - Using existing document: 무제-1
+[13:29:24]   - Document color mode: DocumentColorSpace.RGB
+[13:29:24]   - Document dimensions: 612 x 792 points
+[13:29:24]   - Number of artboards: 1
+[13:29:24] Artboard info:
+[13:29:24]   - Name: 대지 1
+[13:29:24]   - artboardRect: [0,792,612,0]
+[13:29:24]   - Left: 0
+[13:29:24]   - Top: 792
+[13:29:24]   - Right: 612
+[13:29:24]   - Bottom: 0
+[13:29:24]   - Width: 612
+[13:29:24]   - Height: 792
+[13:29:24] 
+[13:29:24] Placing PNG file...
+[13:29:24]   - PlacedItem created
+[13:29:24]   - File assigned to PlacedItem
+[13:29:24] PNG initial state after placement:
+[13:29:24] PNG bounds:
+[13:29:24]   - geometricBounds: [-162,1288,774,-497]
+[13:29:24]   - visibleBounds: [-162,1288,774,-497]
+[13:29:24]   - position: [-162,1288]
+[13:29:24]   - top: 1288
+[13:29:24]   - left: -162
+[13:29:24]   - width: 936
+[13:29:24]   - height: 1785
+[13:29:24]   - PNG embedded
+[13:29:24] PNG state after embedding:
+[13:29:24] PNG bounds:
+[13:29:24]   - geometricBounds: [-162,1288,774,-497]
+[13:29:24]   - visibleBounds: [-162,1288,774,-497]
+[13:29:24]   - position: [-162,1288]
+[13:29:24]   - top: 1288
+[13:29:24]   - left: -162
+[13:29:24]   - width: 936
+[13:29:24]   - height: 1785
+[13:29:24] PNG scaling calculation:
+[13:29:24]   - Original width: 936
+[13:29:24]   - Target width: 400
+[13:29:24]   - Scale factor: 42.7350427350427%
+[13:29:24]   - PNG resized
+[13:29:24] PNG final state after scaling:
+[13:29:24] PNG bounds:
+[13:29:24]   - geometricBounds: [106,776.910256410256,506,14.0897435897441]
+[13:29:24]   - visibleBounds: [106,776.910256410256,506,14.0897435897441]
+[13:29:24]   - position: [106,776.910256410256]
+[13:29:24]   - top: 776.910256410256
+[13:29:24]   - left: 106
+[13:29:24]   - width: 400
+[13:29:24]   - height: 762.820512820512
+[13:29:24] 
+[13:29:24] Placing EPS file...
+[13:29:24]   - PlacedItem created
+[13:29:24]   - File assigned to PlacedItem
+[13:29:24] EPS initial state after placement:
+[13:29:24] EPS bounds:
+[13:29:24]   - geometricBounds: [164,679,447.464599609375,112.070922851562]
+[13:29:24]   - visibleBounds: [164,679,447.464599609375,112.070922851562]
+[13:29:24]   - position: [164,679]
+[13:29:24]   - top: 679
+[13:29:24]   - left: 164
+[13:29:24]   - width: 283.464599609375
+[13:29:24]   - height: 566.929077148438
+[13:29:25]   - EPS embedded
+[13:29:25] EPS state after embedding:
+[13:29:25] EPS bounds:
+[13:29:25]   - geometricBounds: [164,679,447.464599609375,112.070922851562]
+[13:29:25]   - visibleBounds: [164,679,447.464599609375,112.070922851562]
+[13:29:25]   - position: [164,679]
+[13:29:25]   - top: 679
+[13:29:25]   - left: 164
+[13:29:25]   - width: 283.464599609375
+[13:29:25]   - height: 566.929077148438
+[13:29:25] EPS scaling calculation:
+[13:29:25]   - Original width: 283.464599609375
+[13:29:25]   - Target width: 400
+[13:29:25]   - Scale factor: 141.111094842607%
+[13:29:25]   - EPS resized
+[13:29:25] EPS state after scaling:
+[13:29:25] EPS bounds:
+[13:29:25]   - geometricBounds: [105.732299804688,795.535375298403,505.732299804688,-4.46445244684219]
+[13:29:25]   - visibleBounds: [105.732299804688,795.535375298403,505.732299804688,-4.46445244684219]
+[13:29:25]   - position: [105.732299804688,795.535375298403]
+[13:29:25]   - top: 795.535375298403
+[13:29:25]   - left: 105.732299804688
+[13:29:25]   - width: 400
+[13:29:25]   - height: 799.999827745245
+[13:29:25] 
+[13:29:25] Positioning items:
+[13:29:25]   - PNG bottom edge: 14.0897435897441
+[13:29:25]   - Desired EPS top: -35.9102564102559
+[13:29:25]   - EPS repositioned
+[13:29:25] Final positions:
+[13:29:25]   - PNG: top=776.910256410256, left=106
+[13:29:25]   - EPS: top=-35.9102564102559, left=106
+[13:29:25]   - Vertical gap: 50 points
+[13:29:25] 
+[13:29:25] Final item states:
+[13:29:25] PNG bounds:
+[13:29:25]   - geometricBounds: [106,776.910256410256,506,14.0897435897441]
+[13:29:25]   - visibleBounds: [106,776.910256410256,506,14.0897435897441]
+[13:29:25]   - position: [106,776.910256410256]
+[13:29:25]   - top: 776.910256410256
+[13:29:25]   - left: 106
+[13:29:25]   - width: 400
+[13:29:25]   - height: 762.820512820512
+[13:29:25] 
+[13:29:25] EPS bounds:
+[13:29:25]   - geometricBounds: [106,-35.9102564102559,506,-835.910084155501]
+[13:29:25]   - visibleBounds: [106,-35.9102564102559,506,-835.910084155501]
+[13:29:25]   - position: [106,-35.9102564102559]
+[13:29:25]   - top: -35.9102564102559
+[13:29:25]   - left: 106
+[13:29:25]   - width: 400
+[13:29:25]   - height: 799.999827745245
+[13:29:25] 
+[13:29:25] Artboard placement check:
+[13:29:25]   - PNG on artboard: true
+[13:29:25]   - EPS on artboard: false
+[13:29:25] 
+[13:29:25] SUCCESS: Artwork placed and scaled
+
+Script completed: Fri May 23 2025 13:29:36 GMT+0900
