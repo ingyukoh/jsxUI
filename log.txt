@@ -1,146 +1,59 @@
-=== DIAL5.JSX DEBUG LOG ===
-Script started: Fri May 23 2025 18:59:14 GMT+0900
+=== CL2.JSX LOG ===
+Script started: Sat May 24 2025 06:52:36 GMT+0900
 Script folder: D:\EPS\Iter\UI
 
-[18:59:14] Settings:
-[18:59:14]   - TARGET_HEIGHT: 400 points
-[18:59:14]   - HORIZONTAL_GAP: 20 points
-[18:59:14]   - MARGIN_FROM_TOP: 50 points
-[18:59:14]   - MARGIN_FROM_LEFT: 50 points
-[18:59:14] 
-[18:59:14] Auto-loading files from script folder...
-[18:59:14] Checking file existence:
-[18:59:14]   - PNG file: D:\EPS\Iter\UI\PatCol.png
-[18:59:14]   - PNG exists: true
-[18:59:14]   - EPS file: D:\EPS\Iter\UI\PatBlk.eps
-[18:59:14]   - EPS exists: true
-[18:59:14] Both files found successfully
-[18:59:14] 
-[18:59:14] Document setup:
-[18:59:14]   - Number of open documents: 0
-[18:59:21]   - Using existing document: 무제-1
-[18:59:21]   - Document color mode: DocumentColorSpace.RGB
-[18:59:21]   - Document dimensions: 612 x 792 points
-[18:59:21]   - Number of artboards: 1
-[18:59:21] Artboard info:
-[18:59:21]   - Name: 대지 1
-[18:59:21]   - artboardRect: [0,792,612,0]
-[18:59:21]   - Left: 0
-[18:59:21]   - Top: 792
-[18:59:21]   - Right: 612
-[18:59:21]   - Bottom: 0
-[18:59:21]   - Width: 612
-[18:59:21]   - Height: 792
-[18:59:21] 
-[18:59:21] Placing PNG file...
-[18:59:21]   - PlacedItem created
-[18:59:21]   - File assigned to PlacedItem
-[18:59:21] PNG initial state after placement:
-[18:59:21] PNG bounds:
-[18:59:21]   - geometricBounds: [-162,1288,774,-497]
-[18:59:21]   - visibleBounds: [-162,1288,774,-497]
-[18:59:21]   - position: [-162,1288]
-[18:59:21]   - top: 1288
-[18:59:21]   - left: -162
-[18:59:21]   - width: 936
-[18:59:21]   - height: 1785
-[18:59:21]   - PNG embedded
-[18:59:21] PNG state after embedding:
-[18:59:21] PNG bounds:
-[18:59:21]   - geometricBounds: [-162,1288,774,-497]
-[18:59:21]   - visibleBounds: [-162,1288,774,-497]
-[18:59:21]   - position: [-162,1288]
-[18:59:21]   - top: 1288
-[18:59:21]   - left: -162
-[18:59:21]   - width: 936
-[18:59:21]   - height: 1785
-[18:59:21] PNG scaling calculation:
-[18:59:21]   - Original height: 1785
-[18:59:21]   - Target height: 400
-[18:59:21]   - Scale factor: 22.4089635854342%
-[18:59:21]   - PNG resized
-[18:59:21] PNG final state after scaling:
-[18:59:21] PNG bounds:
-[18:59:21]   - geometricBounds: [201.126050420167,595.5,410.873949579831,195.5]
-[18:59:21]   - visibleBounds: [201.126050420167,595.5,410.873949579831,195.5]
-[18:59:21]   - position: [201.126050420167,595.5]
-[18:59:21]   - top: 595.5
-[18:59:21]   - left: 201.126050420167
-[18:59:21]   - width: 209.747899159664
-[18:59:21]   - height: 400
-[18:59:21] 
-[18:59:21] Placing EPS file...
-[18:59:21]   - PlacedItem created
-[18:59:21]   - File assigned to PlacedItem
-[18:59:21] EPS initial state after placement:
-[18:59:21] EPS bounds:
-[18:59:21]   - geometricBounds: [164,679,447.464599609375,112.070922851562]
-[18:59:21]   - visibleBounds: [164,679,447.464599609375,112.070922851562]
-[18:59:21]   - position: [164,679]
-[18:59:21]   - top: 679
-[18:59:21]   - left: 164
-[18:59:21]   - width: 283.464599609375
-[18:59:21]   - height: 566.929077148438
-[18:59:22]   - EPS embedded
-[18:59:22] EPS state after embedding:
-[18:59:22] EPS bounds:
-[18:59:22]   - geometricBounds: [164,679,447.464599609375,112.070922851562]
-[18:59:22]   - visibleBounds: [164,679,447.464599609375,112.070922851562]
-[18:59:22]   - position: [164,679]
-[18:59:22]   - top: 679
-[18:59:22]   - left: 164
-[18:59:22]   - width: 283.464599609375
-[18:59:22]   - height: 566.929077148438
-[18:59:22] EPS scaling calculation:
-[18:59:22]   - Original height: 566.929077148438
-[18:59:22]   - Target height: 400
-[18:59:22]   - Scale factor: 70.5555626132171%
-[18:59:22]   - EPS resized
-[18:59:22] EPS state after scaling:
-[18:59:22] EPS bounds:
-[18:59:22]   - geometricBounds: [205.732278272839,595.535461425781,405.732321336536,195.535461425781]
-[18:59:22]   - visibleBounds: [205.732278272839,595.535461425781,405.732321336536,195.535461425781]
-[18:59:22]   - position: [205.732278272839,595.535461425781]
-[18:59:22]   - top: 595.535461425781
-[18:59:22]   - left: 205.732278272839
-[18:59:22]   - width: 200.000043063697
-[18:59:22]   - height: 400
-[18:59:22] 
-[18:59:22] Positioning items side by side:
-[18:59:22]   - PNG positioned at:
-[18:59:22]     - top: 742
-[18:59:22]     - left: 50
-[18:59:22]   - EPS positioned at:
-[18:59:22]     - top: 742
-[18:59:22]     - left: 279.747899159664
-[18:59:22] Final layout:
-[18:59:22]   - Total width used: 429.747942223361 points
-[18:59:22]   - Horizontal gap: 20 points
-[18:59:22]   - Height alignment: MATCHED
-[18:59:22] 
-[18:59:22] Final item states:
-[18:59:22] PNG bounds:
-[18:59:22]   - geometricBounds: [50,742,259.747899159664,342]
-[18:59:22]   - visibleBounds: [50,742,259.747899159664,342]
-[18:59:22]   - position: [50,742]
-[18:59:22]   - top: 742
-[18:59:22]   - left: 50
-[18:59:22]   - width: 209.747899159664
-[18:59:22]   - height: 400
-[18:59:22] 
-[18:59:22] EPS bounds:
-[18:59:22]   - geometricBounds: [279.747899159664,742,479.747942223361,342]
-[18:59:22]   - visibleBounds: [279.747899159664,742,479.747942223361,342]
-[18:59:22]   - position: [279.747899159664,742]
-[18:59:22]   - top: 742
-[18:59:22]   - left: 279.747899159664
-[18:59:22]   - width: 200.000043063697
-[18:59:22]   - height: 400
-[18:59:22] 
-[18:59:22] Artboard placement check:
-[18:59:22]   - PNG on artboard: true
-[18:59:22]   - EPS on artboard: true
-[18:59:22] 
-[18:59:22] SUCCESS: Artwork placed side by side with same height
+[06:52:36] Settings:
+[06:52:36]   - Artboard size: 200 x 500 mm
+[06:52:36]   - Artboard size in points: 566.929 x 1417.323
+[06:52:36]   - Target PNG size: 30 x 60 mm
+[06:52:36]   - Target PNG size in points: 85.039 x 170.079
+[06:52:36]   - Top-left margin: 10.0 mm
+[06:52:36] 
+[06:52:36] Loading file...
+[06:52:36]   - PNG path: D:\EPS\Iter\UI\PatCol.png
+[06:52:36]   - File exists: true
+[06:52:36] 
+[06:52:36] Creating new document...
+[06:52:43]   - Document created
+[06:52:43]   - Color mode: RGB
+[06:52:43]   - Document dimensions: 566.929138183594 x 1417.32287597656 points
+[06:52:43]   - Artboard name: PatCol Artboard
+[06:52:43]   - Artboard rect: [0,1417.32287597656,566.929138183594,0]
+[06:52:43] 
+[06:52:43] Placing PNG...
+[06:52:43]   - PlacedItem created
+[06:52:43]   - File assigned
+[06:52:43] PNG initial state:
+[06:52:43]   - Position: [-184,1601]
+[06:52:43]   - Width: 936
+[06:52:43]   - Height: 1785
+[06:52:43]   - Top: 1601
+[06:52:43]   - Left: -184
+[06:52:43]   - PNG embedded
+[06:52:43] PNG after embedding:
+[06:52:43]   - Width: 936
+[06:52:43]   - Height: 1785
+[06:52:43] 
+[06:52:43] Calculating scale to achieve target size...
+[06:52:43]   - Original size: 936 x 1785
+[06:52:43]   - Aspect ratio: 0.524
+[06:52:43]   - Scale X needed: 9.085%
+[06:52:43]   - Scale Y needed: 9.528%
+[06:52:43]   - Final scale to use: 9.085%
+[06:52:43]   - New size: 85.039 x 162.174
+[06:52:43]   - New size in mm: 30.0 x 57.2 mm
+[06:52:43] 
+[06:52:43] Positioning at top-left of artboard...
+[06:52:43]   - Artboard top-left: (0, 1417.32287597656)
+[06:52:43]   - Margin: 10.0 mm (28.346 points)
+[06:52:43]   - PNG position set to: [28.346, 1388.976]
+[06:52:43] 
+[06:52:43] Final PNG state:
+[06:52:43]   - Position: [28.346, 1388.976]
+[06:52:43]   - Size: 85.039 x 162.174
+[06:52:43]   - Bounds: [28.346, 1388.976, 113.386, 1226.802]
+[06:52:43]   - Fits on artboard: true
+[06:52:43] 
+[06:52:43] SUCCESS: PatCol.png placed at top-left
 
-Script completed: Fri May 23 2025 19:00:16 GMT+0900
+Script completed: Sat May 24 2025 06:52:51 GMT+0900
