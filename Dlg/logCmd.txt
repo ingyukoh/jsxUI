@@ -1,0 +1,32 @@
+[2025-05-24 14:20:41.158] SCRIPT_START - cmd8.jsx started
+[2025-05-24 14:20:41.444] DIALOG_CREATED - Main dialog window created
+[2025-05-24 14:20:41.476] UI_CREATED - Column 1 (Pattern Col/Blk) created
+[2025-05-24 14:20:41.506] UI_CREATED - Column 2 (2d BluePrint #1) created
+[2025-05-24 14:20:41.537] UI_CREATED - Column 3 (2d BluePrint #2) created
+[2025-05-24 14:20:41.569] UI_CREATED - Column 4 (2d BluePrint #3) created
+[2025-05-24 14:20:41.593] UI_CREATED - All UI elements created, dialog ready to show
+[2025-05-24 14:20:44.895] BUTTON_CLICK - Pattern Col button clicked
+[2025-05-24 14:20:58.583] FILE_SELECTED - Pattern Col: D:\EPS\Iter\UI\PatCol.eps
+[2025-05-24 14:20:58.637] UPDATE_SYNTH - Updating synthesized names for column 2
+[2025-05-24 14:20:58.658] UPDATE_SYNTH - Updating synthesized names for column 3
+[2025-05-24 14:20:58.676] UPDATE_SYNTH - Updating synthesized names for column 4
+[2025-05-24 14:21:00.496] BUTTON_CLICK - Pattern Blk button clicked
+[2025-05-24 14:21:07.969] FILE_SELECTED - Pattern Blk: D:\EPS\Iter\UI\PatBlk.eps
+[2025-05-24 14:21:07.997] UPDATE_SYNTH - Updating synthesized names for column 2
+[2025-05-24 14:21:08.039] UPDATE_SYNTH - Updating synthesized names for column 3
+[2025-05-24 14:21:08.172] UPDATE_SYNTH - Updating synthesized names for column 4
+[2025-05-24 14:21:10.979] BUTTON_CLICK - 2d BluePrint button #1 clicked
+[2025-05-24 14:21:19.371] FILE_SELECTED - 2d BluePrint #1: D:\EPS\Iter\UI\s25.eps
+[2025-05-24 14:21:19.399] UPDATE_SYNTH - Updating synthesized names for column 2
+[2025-05-24 14:21:19.426] SYNTH_NAME - Column 2 Masked PatCol: s25_PatCol.eps
+[2025-05-24 14:21:19.453] SYNTH_NAME - Column 2 Masked PatBlk: s25_PatBlk.eps
+[2025-05-24 14:21:21.714] BUTTON_CLICK - 2d BluePrint button #2 clicked
+[2025-05-24 14:21:29.263] FILE_SELECTED - 2d BluePrint #2: D:\EPS\Iter\UI\s25plus.eps
+[2025-05-24 14:21:29.287] UPDATE_SYNTH - Updating synthesized names for column 3
+[2025-05-24 14:21:29.312] SYNTH_NAME - Column 3 Masked PatCol: s25plus_PatCol.eps
+[2025-05-24 14:21:29.336] SYNTH_NAME - Column 3 Masked PatBlk: s25plus_PatBlk.eps
+[2025-05-24 14:21:31.286] BUTTON_CLICK - 2d BluePrint button #3 clicked
+[2025-05-24 14:21:38.645] FILE_SELECTED - 2d BluePrint #3: D:\EPS\Iter\UI\s25ultra.eps
+[2025-05-24 14:21:38.671] UPDATE_SYNTH - Updating synthesized names for column 4
+[2025-05-24 14:21:38.800] SYNTH_NAME - Column 4 Masked PatCol: s25ultra_PatCol.eps
+[2025-05-24 14:21:38.881] SYNTH_NAME - Column 4 Masked PatBlk: s25ultra_PatBlk.eps
